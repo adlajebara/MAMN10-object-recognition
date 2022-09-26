@@ -1,2 +1,2 @@
 # MAMN10-object-recognition'
-#W testar
+#W testar igen
